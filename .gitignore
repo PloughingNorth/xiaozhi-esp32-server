@@ -152,6 +152,7 @@ main/manager-web/node_modules
 .secrets.yaml
 .private_config.yaml
 .env.development
+package-lock.json
 
 # model files
 main/xiaozhi-server/models/SenseVoiceSmall/model.pt
